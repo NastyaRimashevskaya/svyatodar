@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1664px" height="732px" viewBox="0 0 1664 732" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shapes</title>
+    <g id="Home-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cvr-Homepage-Desktop" transform="translate(46.000000, 62.000000)">
+            <g id="shapes" transform="translate(-46.000000, -62.000000)">
+                <path d="M414.68,172.16 C257.03,172.16 129.23,297.298293 129.23,451.655104 C129.23,606.011915 257.03,731.16 414.68,731.16 L1394.29,731.16 L1394.29,172.16 L414.68,172.16 Z" id="Path" stroke="#F8D030"></path>
+                <rect id="Rectangle" stroke="#F8D030" x="0.5" y="0.5" width="356" height="221"></rect>
+                <path d="M356.996803,177.86961 L357,222 L251.953914,221.993424 C283.032972,200.841687 318.609787,185.58289 356.996803,177.86961 Z" id="Combined-Shape" fill="#F8D030"></path>
+                <path d="M1394.29,487.95 C1357.08967,539.657732 1357.08967,609.352268 1394.29,661.06 L1394.29,487.95 Z" id="Path" fill="#F8D030" fill-rule="nonzero"></path>
+                <path d="M1514.59,722.69 L1514.59,722.69 C1596.43178,722.684477 1662.77368,656.335109 1662.77,574.493334 C1662.76632,492.651559 1596.41844,426.31 1514.57667,426.31 C1432.73489,426.31 1366.39,492.658225 1366.39,574.5 C1366.40104,656.342407 1432.74759,722.684479 1514.59,722.69" id="Path" stroke="#F8D030"></path>
+            </g>
+        </g>
+    </g>
+</svg>
